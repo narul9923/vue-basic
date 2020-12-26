@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import Task from './components/Task9-2.vue'
+import Task from './components/Task15/Task15.vue'
 
 export default {
   name: 'App',
